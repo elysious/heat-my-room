@@ -1,0 +1,8 @@
+# default values
+
+CPU_PROCESSES = 16
+CPU_WORK = 0.5
+CPU_SLEEP = 0.5
+
+GPU_WORK = 0.2
+GPU_SLEEP = 0.8
